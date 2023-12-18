@@ -3,4 +3,5 @@ The official place to download JewleahInstaller created by Dantify. Before runni
 
 # Full credit to these people for making JewleahInstaller possible
 Bionic Butter: https://github.com/Bionic-OSE
+<br>
 Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
