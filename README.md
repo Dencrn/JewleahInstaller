@@ -9,3 +9,5 @@ BETA (Pre-Release): https://github.com/dantifyy/JewleahInstaller/releases/tag/1.
 Bionic Butter: https://github.com/Bionic-OSE
 <br>
 Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
+<br>
+Defender Control: https://www.sordum.org/9480/defender-control-v2-1/
