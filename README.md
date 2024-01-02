@@ -3,7 +3,7 @@ The official place to download JewleahInstaller created by Dantify. Before runni
 
 # Downloads
 STABLE: https://github.com/dantifyy/JewleahInstaller/releases/download/1.0/JewleahInstaller.exe <br>
-BETA (Pre-Release): https://github.com/dantifyy/JewleahInstaller/releases/tag/1.1BETA1/JewleahInstaller.exe
+BETA (Pre-Release): https://github.com/dantifyy/JewleahInstaller/releases/download/1.1BETA1/JewleahInstaller.exe
 
 # Full credit to these people for making JewleahInstaller possible
 Bionic Butter: https://github.com/Bionic-OSE
