@@ -3,7 +3,7 @@ The official place to download JewleahInstaller created by Dantify. Before runni
 
 # Downloads
 STABLE (LATEST): https://github.com/dantifyy/JewleahInstaller/releases/download/1.1/JewleahInstaller.exe <br>
-BETA (Pre-Release) (OLD): https://github.com/dantifyy/JewleahInstaller/releases/download/1.1BETA1/JewleahInstaller.exe
+BETA (Pre-Release): https://github.com/dantifyy/JewleahInstaller/releases/download/2.0BETA1/JewleahInstaller.exe
 
 # Full credit to these people for making JewleahInstaller possible
 Bionic Butter: https://github.com/Bionic-OSE
@@ -11,3 +11,5 @@ Bionic Butter: https://github.com/Bionic-OSE
 Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
 <br>
 Defender Control: https://www.sordum.org/9480/defender-control-v2-1/
+<br>
+OpenAI (ChatGPT): https://chat.openai.com/
