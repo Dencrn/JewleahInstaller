@@ -4,7 +4,7 @@ The official place to download JewleahInstaller is created by Dantify. Before ru
 ![JewleahInstaller Main Menu](https://i.imgur.com/ogZrQqQ.png)
 
 # Compatability
-<img src="https://i.imgur.com/3Ru0Kuz.png" width="1080" height="607">
+<img src="https://i.imgur.com/3Ru0Kuz.png" width="810" height="455">
 
 # Downloads
 STABLE (LATEST STABLE BUILD {1.1}): https://github.com/dantifyy/JewleahInstaller/releases/download/1.1/JewleahInstaller.exe <br>
