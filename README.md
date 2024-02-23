@@ -1,4 +1,4 @@
-# JewleahInstaller
+![JewleahInstaller 2 Icon](https://i.imgur.com/ITKjM1A.jpeg) # JewleahInstaller
 The official place to download JewleahInstaller is created by Dantify. Before running any version of JewleahInstaller, it is required to disable Windows Defender or else it will flag the exe as malware (it is not malware). The entire program has been created inside of either Command Prompt (version 1.0) or PowerShell ISE (version 1.1 and later).
 
 ![JewleahInstaller Main Menu](https://i.imgur.com/ogZrQqQ.png)
