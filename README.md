@@ -4,7 +4,7 @@ Welcome to JewleahInstaller, created by Dantify. Before running any version of J
 ![JewleahInstaller Main Menu](https://i.imgur.com/uiIZdmo.png)
 
 # Compatability
-<img src="https://i.imgur.com/3Ru0Kuz.png" width="810" height="455">
+<img src="https://i.imgur.com/L2JPHea.jpeg" width="809" height="456">
 
 # Essentials to run JewleahInstaller
 In order to run JewleahInstaller perfectly without any issues you will need these 2 applications <br>
