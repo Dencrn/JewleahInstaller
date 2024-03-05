@@ -11,8 +11,8 @@ In order to run JewleahInstaller perfectly without any issues you will need thes
 Defender Control: https://www.sordum.org/9480/defender-control-v2-1/ <br>
 AdvancedRun: https://www.nirsoft.net/utils/advancedrun-x64.zip <br>
 # Downloads
-STABLE (LATEST STABLE BUILD {1.1}): https://github.com/dantifyy/JewleahInstaller/releases/download/1.1/JewleahInstaller.exe <br>
-BETA (Pre-Release {2 BETA 2}): https://github.com/dantifyy/JewleahInstaller/releases/download/2.0BETA2/JewleahInstaller.exe
+STABLE (LATEST STABLE BUILD {2.0}): https://github.com/dantifyy/JewleahInstaller/releases/download/2.0/JewleahInstaller.exe <br>
+BETA (Pre-Release {2 BETA 3}) (Outdated): https://github.com/dantifyy/JewleahInstaller/releases/download/2.0BETA3/JewleahInstaller.exe
 
 # Full credit to these people for making JewleahInstaller possible
 <img src="https://i.imgur.com/YJ5DFxV.jpeg" width="46" height="46"> Bionic Butter: https://github.com/Bionic-OSE
