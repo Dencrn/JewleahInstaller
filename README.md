@@ -15,8 +15,8 @@ STABLE (LATEST STABLE BUILD {2.1}): https://github.com/dantifyy/JewleahInstaller
 BETA (Pre-Release {2 BETA 3}) (Outdated): https://github.com/dantifyy/JewleahInstaller/releases/download/2.0BETA3/JewleahInstaller2BETA3.exe
 
 # Full credit to these people for making JewleahInstaller possible
-<img src="https://i.imgur.com/YJ5DFxV.jpeg" width="46" height="46"> Bionic Butter: https://github.com/Bionic-OSE
+Bionic Butter: https://github.com/Bionic-OSE
 <br>
-<img src="https://i.imgur.com/WBQ7kGK.jpeg" width="46" height="46"> Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
+Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
 <br>
 OpenAI (ChatGPT): https://chat.openai.com/
