@@ -1,5 +1,5 @@
 # <img src="https://i.imgur.com/ITKjM1A.jpeg" width="50" height="50"> JewleahInstaller
-Welcome to JewleahInstaller, created by Dantify. Before running any version of JewleahInstaller, it is required to disable Windows Defender or else it will flag the exe as malware **(IT IS NOT MALWARE)**. The entire program has been created inside of either Command Prompt (version 1.0) or PowerShell ISE / Visual Studio Code (version 1.1 and later).
+Welcome to JewleahInstaller, created by Dencrn. Before running any version of JewleahInstaller, it is required to disable Windows Defender or else it will flag the exe as malware **(IT IS NOT MALWARE)**. The entire program has been created inside of either Command Prompt (version 1.0) or PowerShell ISE / Visual Studio Code (version 1.1 and later).
 
 ![JewleahInstaller Main Menu](https://i.imgur.com/uiIZdmo.png)
 
